@@ -1,6 +1,10 @@
 # DNOFormView
 自定义表格
 
+###Gif Demo
+![Demo.gif](https://raw.githubusercontent.com/imagons/DNOFormView/master/formView.gif)
+
+
 ####你需要几行几列 默认4行8列
 ```objc
 @property (nonatomic, assign) NSUInteger row;    //default is 4
